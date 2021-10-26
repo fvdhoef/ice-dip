@@ -14,4 +14,4 @@ This is a small FPGA board containing the Lattice iCE40 UltraPlus 5K FPGA.
 - Open-source hardware. Schematic and layout are free for you to use and modify.
 
 ## Renders
-<img height="500px" src="img/ICE-DIP front.png"><img height="500px" src="img/ICE-DIP back.png">
+<img height="500px" src="img/ICE-DIP front.png"> <img height="500px" src="img/ICE-DIP back.png">
