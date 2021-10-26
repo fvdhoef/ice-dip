@@ -11,7 +11,7 @@ This is a small FPGA board containing the Lattice iCE40 UltraPlus 5K FPGA.
 - 2MB SPI flash for 1 to 4 configuration images.
 - On-board crystal oscillator.
 - On-board power supplies for 3.3V and 1.2V.
-- Open-source hardware. Schematic and layout (in KiCad format) are free for you to use and modify.
+- Open-source hardware. [Schematic](pcb/ice-dip-schematic.pdf) and layout (in KiCad format) are free for you to use and modify.
 
 ## Renders
 <img height="500px" src="img/ICE-DIP front.png"> <img height="500px" src="img/ICE-DIP back.png">
