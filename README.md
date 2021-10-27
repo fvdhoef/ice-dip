@@ -4,6 +4,8 @@ Designed by Frank van den Hoef in 2021.
 
 This is a small FPGA board containing the Lattice iCE40 UltraPlus 5K FPGA. 
 
+NOTE: At this moment this design is untested.
+
 ## Features
 - Lattice ICE40UP5K-SG48I FPGA, 5K logic elements, 15KB+128KB embedded block RAM
 - DIP40 form factor with machined pin headers for easy integration in retro computer designs.
@@ -15,3 +17,8 @@ This is a small FPGA board containing the Lattice iCE40 UltraPlus 5K FPGA.
 
 ## Renders
 <img height="500px" src="img/ICE-DIP front.png"> <img height="500px" src="img/ICE-DIP back.png">
+
+## Downloads
+- [Schematic](pcb/ice-dip-schematic.pdf)
+- [Bill of Materials](pcb/ice-dip-bom.csv)
+- [Gerbers files](pcb/ice-dip-gerbers.zip)
