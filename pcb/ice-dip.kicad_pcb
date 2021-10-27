@@ -3,7 +3,7 @@
   (general
     (thickness 1.6)
     (drawings 7)
-    (tracks 1040)
+    (tracks 1042)
     (zones 0)
     (modules 40)
     (nets 87)
@@ -239,8 +239,6 @@
     (add_net "Net-(C21-Pad1)")
     (add_net "Net-(R3-Pad2)")
     (add_net "Net-(R4-Pad2)")
-    (add_net "Net-(U5-Pad2)")
-    (add_net "Net-(X1-Pad1)")
     (add_net P1)
     (add_net P10)
     (add_net P11)
@@ -2479,6 +2477,8 @@
   (gr_line (start 133.35 123.19) (end 133.35 72.39) (layer Edge.Cuts) (width 0.05))
   (gr_line (start 115.57 123.19) (end 133.35 123.19) (layer Edge.Cuts) (width 0.05))
 
+  (via (at 125.603 98.552) (size 0.5) (drill 0.2) (layers F.Cu B.Cu) (net 1))
+  (via (at 122.047 96.901) (size 0.5) (drill 0.2) (layers F.Cu B.Cu) (net 1))
   (via (at 124.968 94.996) (size 0.5) (drill 0.2) (layers F.Cu B.Cu) (net 1))
   (via (at 124.46 100.965) (size 0.5) (drill 0.2) (layers F.Cu B.Cu) (net 1))
   (via (at 124.206 94.996) (size 0.5) (drill 0.2) (layers F.Cu B.Cu) (net 1))

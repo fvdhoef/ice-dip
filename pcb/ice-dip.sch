@@ -86,8 +86,6 @@ Text GLabel 3000 1100 2    50   BiDi ~ 0
 IO25
 Text GLabel 3000 1200 2    50   BiDi ~ 0
 IO26
-Text GLabel 3400 1550 2    50   BiDi ~ 0
-IO35_G0
 Wire Wire Line
 	3000 3700 3350 3700
 Wire Wire Line
@@ -268,8 +266,6 @@ Text GLabel 1200 5800 2    50   Input ~ 0
 SPI_SSEL#
 Wire Wire Line
 	1200 5800 1150 5800
-Text GLabel 3400 1650 2    50   Input ~ 0
-IO37_G1
 Text GLabel 3000 1300 2    50   BiDi ~ 0
 IO27
 Text GLabel 3000 2100 2    50   BiDi ~ 0
@@ -1341,14 +1337,10 @@ Text GLabel 5450 1450 2    50   BiDi ~ 0
 IO23
 Text GLabel 5450 1350 2    50   UnSpc ~ 0
 GND
-Text GLabel 7900 3200 2    50   Input ~ 0
-IO37_G1
 Text GLabel 6650 2300 0    50   BiDi ~ 0
 IO36
 Text GLabel 6650 3700 0    50   BiDi ~ 0
 IO38
-Text GLabel 6300 3100 0    50   BiDi ~ 0
-IO35_G0
 Text GLabel 6650 2100 0    50   BiDi ~ 0
 IO34
 Text GLabel 6650 1900 0    50   BiDi ~ 0
